@@ -1,0 +1,8 @@
+name: MySqlGarbageCollector
+version: ${project.version}
+main: mysqlgarbagecollector.red.man10.man10
+authors: [Sho0]
+softdepend: [Man10MySQLAPI]
+description: Mysql GC for man10
+commands:
+ mysqlgc:

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySqlGarbageCollector:jar">
+    <output-path>$PROJECT_DIR$/../spigot/plugins</output-path>
+    <root id="archive" name="MySqlGarbageCollector.jar">
+      <element id="module-output" name="MySqlGarbageCollector" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot/plugins/Man10MysqlApi.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
